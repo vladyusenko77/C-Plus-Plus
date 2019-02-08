@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\yusenko\desktop\c++\class woks\2.7.2019\2.7.2019\source.cpp(68): error C2995: 'T sum(T,T2)': function template has already been defined
+  c:\users\yusenko\desktop\c++\class woks\2.7.2019\2.7.2019\source.cpp(58): note: see declaration of 'sum'
+c:\users\yusenko\desktop\c++\class woks\2.7.2019\2.7.2019\source.cpp(75): error C2734: 'arr': 'const' object must be initialized if not 'extern'
+c:\users\yusenko\desktop\c++\class woks\2.7.2019\2.7.2019\source.cpp(78): error C2296: '%': illegal, left operand has type 'int (__cdecl *)(void)'
