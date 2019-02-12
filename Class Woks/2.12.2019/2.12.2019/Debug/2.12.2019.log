@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(85): error C2065: 'rom': undeclared identifier
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(85): error C2065: 'col': undeclared identifier
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(85): error C2734: 'arr': 'const' object must be initialized if not 'extern'
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(92): error C3861: 'cout': identifier not found
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(95): error C2296: '%': illegal, left operand has type 'int (void)'
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(101): error C3861: 'cout': identifier not found
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(104): error C2296: '%': illegal, left operand has type 'int (void)'
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(110): error C2734: 'arr': 'const' object must be initialized if not 'extern'
+c:\users\yusenko\desktop\c++\class woks\2.12.2019\2.12.2019\source.cpp(111): error C3861: 'sum': identifier not found
